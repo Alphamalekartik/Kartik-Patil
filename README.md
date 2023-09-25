@@ -1,7 +1,7 @@
 [![MasterHead](https://www.multipz.com/artificial-intelligence)
 <h1 align="center">Hi 👋, I'm Kartik Patil</h1>
 <h3 align="center">A passionate AI Developer</h3>
-<img align= "right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/coding-programming-concept-illustration_13989583.htm"
+<img align= "right" alt="Coding" width="400" src=https://www.freepik.com/premium-vector/coding-programming-concept-illustration_13989583.htm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphamalekartik&label=Profile%20views&color=0e75b6&style=flat" alt="alphamalekartik" /> </p>
 
