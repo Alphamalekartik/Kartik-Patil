@@ -1,3 +1,4 @@
+![logo](https://github.com/Alphamalekartik/Kartik-Patil/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Kartik Patil</h1>
 <h3 align="center">A passionate AI Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
